@@ -4,38 +4,19 @@
 
 I’m a Junior Full-Stack Web Developer passionate about creating innovative web applications and exploring emerging technologies. With a solid foundation in both front-end and back-end development, I continuously strive to enhance my skills and deliver impactful digital experiences.
 
-## 🛠️ Technologies & Tools
-
-### Front-End:
-- **HTML** | **CSS** | **Tailwind CSS** | **React.js**
-
-### Back-End:
-- **Node.js** | **Express.js** | **MongoDB** | **Firebase**
-
-### Tools:
-- Git & GitHub | VS Code | Postman |
-
 ## 🛠️ Tools & Technologies
 
 ### 💻 Frond-End
 
-- **HTML**
-- **CSS**
-- **Tailwind CSS**
-- **React.js**
+- **HTML** | **CSS** | **Tailwind CSS** | **React.js**
 
 ### ⚙️ Back-End
 
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **Firebase**
+- **Node.js** | **Express.js** | **MongoDB** | **Firebase**
 
 ### 🔧 Tools
 
-- **Git & GitHub** &middot; **hi**
-- **VS Code**
-- **Postman**
+- **Git & GitHub** | **VS Code** | **Postman** 
 
 ## ⚓ Connect With Me:
 
@@ -54,3 +35,10 @@ I’m a Junior Full-Stack Web Developer passionate about creating innovative web
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsar-hussain&show_icons=true&locale=en" alt="kawsar-hussain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-hussain&" alt="kawsar-hussain" /></p>
+
+## 📊 GitHub Stats
+
+![Kawsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsar-hussain&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kawsar-hussain)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-hussain&layout=compact)
+
