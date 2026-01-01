@@ -31,6 +31,14 @@ I’m a Junior Full-Stack Web Developer passionate about creating innovative web
 
 #### 📞 Contact Me
 
+<a href="https://wa.me/8801716899414" target="_blank">
+  <img src="whatsApp.png" alt="WhatsApp" height="40">
+</a>
+
+<a href="https://wa.me/8801716899414" target="_blank">
+  <img src="whatsApp.png" alt="WhatsApp" height="40";
+ >
+</a>
 
 
 
