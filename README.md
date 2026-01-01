@@ -31,15 +31,9 @@ I’m a Junior Full-Stack Web Developer passionate about creating innovative web
 
 ### ☎️ Contact Me
 
-📞 +8801716899414
+📧 Email: [mailtokawsarhussain@gmail.com](mailto:mailtokawsarhussain@gmail.com?subject=Hello&body=Hi%20Kawsar)
 
-📧 mailtokawsarhussain@gmail.com
-
-### ☎️ Contact Me
-
-📞 [WhatsApp me](https://wa.me/8801716899414)  
-
-📧 [Email me](mailto:kawsarhussain@gmail.com)
+📞 Message me on WhatsApp: [+8801716899414](https://wa.me/8801716899414)  
 
 
 
