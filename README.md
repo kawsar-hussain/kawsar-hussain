@@ -20,7 +20,10 @@ I’m a Junior Full-Stack Web Developer passionate about creating innovative web
 
 #### 📈 GitHub Status
 
-![](https://github-stats-alpha.vercel.app/api?username=kawsar-hussain&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-hussain&" alt="kawsar-hussain" /></p> 
+
+<!-- ![](https://github-stats-alpha.vercel.app/api?username=kawsar-hussain&cc=22272e&tc=37BCF6&ic=fff&bc=0000) -->
+
 
 #### ⚓ Connect With Me
 
@@ -41,7 +44,7 @@ I’m a Junior Full-Stack Web Developer passionate about creating innovative web
 
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-hussain&" alt="kawsar-hussain" /></p> -->
+ 
 
 
 
